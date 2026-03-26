@@ -5,7 +5,7 @@ const fs = require("fs");
 const path = require("path");
 const { execSync } = require("child_process");
 
-const REPO = "asina/claude-skills";
+const REPO = "asinadarsh/claude-skills";
 const BRANCH = "main";
 const BASE_URL = `https://raw.githubusercontent.com/${REPO}/${BRANCH}`;
 const CATALOG_URL = `${BASE_URL}/catalog.json`;

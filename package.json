@@ -18,13 +18,13 @@
     "code-review",
     "productivity"
   ],
-  "author": "asina",
+  "author": "asinadarsh",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/asina/claude-skills"
+    "url": "https://github.com/asinadarsh/claude-skills"
   },
-  "homepage": "https://github.com/asina/claude-skills#readme",
+  "homepage": "https://github.com/asinadarsh/claude-skills#readme",
   "engines": {
     "node": ">=14"
   }
